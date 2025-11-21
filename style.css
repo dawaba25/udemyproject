@@ -1,0 +1,30 @@
+/* src/styles/style.css */
+
+/* Global Reset for better consistency */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a standard font and clean up the body */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
+    background-color: #ffffff; /* White background */
+}
+
+/* Base style for the main app container */
+.udemy-clone-landing {
+    max-width: 1340px; /* Standard wide screen width */
+    margin: 0 auto; /* Center the entire app content */
+}
+
+/* Basic button styling */
+button {
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    font-weight: bold;
+    padding: 8px 12px;
+}
