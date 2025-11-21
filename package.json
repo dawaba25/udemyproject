@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "udemy-landing",
   "version": "1.0.0",
@@ -22,4 +23,30 @@
     "eslint-plugin-react-refresh": "^0.4.6",
     "vite": "^5.2.0"
   }
+=======
+{
+  "name": "udemy-landing",
+  "version": "1.0.0",
+  "description": "A clone of the Udemy landing page using React and Vite.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.66",
+    "@types/react-dom": "^18.2.22",
+    "@vitejs/plugin-react": "^4.2.1",
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.1",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.6",
+    "vite": "^5.2.0"
+  }
+>>>>>>> 9731b440261651fb43c7459a2ec2a5f29b7085cd
 }
